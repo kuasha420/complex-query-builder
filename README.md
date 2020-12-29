@@ -1,4 +1,4 @@
-# useBarikoi - React Hooks to use Barikoi APIs easily!
+# complexQueryBuilder - http_build_query of JavaScript
 
 [![Star IT Ltd](https://staritltd.com/wp-content/uploads/2019/10/Web_Logo_of_Star_IT_158x80.png)](https://staritltd.com)
 
@@ -14,7 +14,7 @@ This library uses `querystring` package for escape characters.
 
 <!-- TOC -->
 
-- [useBarikoi - React Hooks to use Barikoi APIs easily!](#usebarikoi---react-hooks-to-use-barikoi-apis-easily)
+- [complexQueryBuilder - http_build_query of JavaScript](#complexquerybuilder---http_build_query-of-javascript)
   - [Installation & Usage](#installation--usage)
     - [For node, react-native or any project where you have dependency management](#for-node-react-native-or-any-project-where-you-have-dependency-management)
       - [Using Named Exports](#using-named-exports)
