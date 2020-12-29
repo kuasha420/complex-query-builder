@@ -17,9 +17,8 @@ This library uses `querystring` package for escape characters.
 - [complexQueryBuilder - http_build_query of JavaScript](#complexquerybuilder---http_build_query-of-javascript)
   - [Installation & Usage](#installation--usage)
     - [For node, react-native or any project where you have dependency management](#for-node-react-native-or-any-project-where-you-have-dependency-management)
-      - [Using Named Exports](#using-named-exports)
-        - [TypeScript ESM](#typescript-esm)
-        - [JavaScript Require Syntax](#javascript-require-syntax)
+      - [TypeScript ESM](#typescript-esm)
+      - [JavaScript Require Syntax](#javascript-require-syntax)
     - [For Browser](#for-browser)
   - [APIS](#apis)
     - [complexQueryBuilder](#complexquerybuilder)
@@ -50,15 +49,13 @@ npm i complex-query-builder
 
 Now you can import specific functions or the factory function from the module using commonjs or esm statements.
 
-#### Using Named Exports
-
-##### TypeScript ESM
+#### TypeScript ESM
 
 ```typescript
 import complexQueryBuilder, { QueryObject } from 'complex-query-builder';
 ```
 
-##### JavaScript Require Syntax
+#### JavaScript Require Syntax
 
 ```javascript
 const complexQueryBuilder = require('complex-query-builder');
@@ -76,7 +73,6 @@ Now you will have `CQB` global in your hand with all functions to use!
 
 ```html
 <script>
-  // Create a Barikoi Instance
   const complexQueryBuilder = CQB.complexQueryBuilder;
 </script>
 ```

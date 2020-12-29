@@ -1,6 +1,6 @@
 {
   "name": "complex-query-builder",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "http_build_query of the JavaScript World with full typeScript support",
   "main": "dist/index.js",
   "module": "dist/esm/index.js",
